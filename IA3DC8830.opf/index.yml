@@ -1,0 +1,148 @@
+id: 4c66109fbc594898999160416196c11c
+annotation_type: index
+revision: '00001'
+annotations:
+  1fe01211716845a893bd557637cf2904:
+    base: A44B.txt
+    Chapters:
+    - title: Pravrajyavastupiṇḍoddāna
+      span:
+        start: 0
+        end: 10
+    - title: Uddāna
+      span:
+        start: 11
+        end: 21
+    - title: Historical events
+      span:
+        start: 22
+        end: 4359
+    - title: Śāriputra
+      span:
+        start: 4360
+        end: 17603
+    - title: Maudgalyāyana
+      span:
+        start: 17604
+        end: 23240
+    - title: Maudgalyāyana and Śāriputra searching for teachers of various philosopical
+        creeds
+      span:
+        start: 23241
+        end: 29077
+    - title: The conversion of Maudgalyāyana and Śāriputra
+      span:
+        start: 29078
+        end: 31511
+    - title: The conversion of Koṣṭhila
+      span:
+        start: 31512
+        end: 31588
+    - title: Antaroddāna
+      span:
+        start: 31589
+        end: 31599
+    - title: Why Śāriputra was wise 1
+      span:
+        start: 31600
+        end: 31632
+    - title: Why Śāriputra was neither rich nor poor
+      span:
+        start: 31633
+        end: 31665
+    - title: Why Śāriputra was wise 2
+      span:
+        start: 31666
+        end: 31709
+    - title: Why Maudgalyāna has magical power 1
+      span:
+        start: 31710
+        end: 31720
+    - title: Why Maudgalyāna has magical power 2
+      span:
+        start: 31721
+        end: 31731
+    - title: Why Koṣṭhila is pratisaṃvedin
+      span:
+        start: 31732
+        end: 31742
+    - title: Rules for pravrajyā and upasaṃpadā
+      span:
+        start: 31743
+        end: 32468
+    - title: Antaroddāna
+      span:
+        start: 32469
+        end: 32754
+    - title: Antaroddāna
+      span:
+        start: 32755
+        end: 32765
+    - title: Uddāna
+      span:
+        start: 32766
+        end: 32853
+    - title: Uddāna
+      span:
+        start: 32854
+        end: 33007
+    - title: Uddāna
+      span:
+        start: 33008
+        end: 33018
+    - title: Maudgalyāyana’s journey to Hell and Heaven
+      span:
+        start: 33019
+        end: 33128
+    - title: Ānanda’s two nephews
+      span:
+        start: 33129
+        end: 33161
+    - title: Buddha’s smile
+      span:
+        start: 33162
+        end: 33359
+    - title: Nāgakumāra
+      span:
+        start: 33360
+        end: 33403
+    - title: Saṃgharakṣitāvadāna
+      span:
+        start: 33404
+        end: 60276
+    - title: Why Saṃgharakṣita was born in a rich family
+      span:
+        start: 60277
+        end: 63549
+    - title: Nāgakumārāvadāna
+      span:
+        start: 63550
+        end: 68541
+    - title: Rule against ordination of Tīrthkas
+      span:
+        start: 68542
+        end: 70866
+    - title: Mātṛghātaka
+      span:
+        start: 70867
+        end: 80234
+    - title: Pitṛghātaka
+      span:
+        start: 80235
+        end: 80344
+    - title: Uddāna
+      span:
+        start: 80345
+        end: 80455
+    - title: ānantaryāni karmāṇi, pārājika, utkṣepaṇīya
+      span:
+        start: 80456
+        end: 86512
+    - title: Uddāna
+      span:
+        start: 86513
+        end: 86514
+    - title: Bodily imperfections
+      span:
+        start: 86515
+        end: 89655

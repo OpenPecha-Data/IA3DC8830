@@ -1,0 +1,16 @@
+id: IA3DC8830
+default_language: sa
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 15:00:42.237447
+last_modified: 2023-02-09 15:00:42.237633
+source_metadata:
+  title: 'MSV 1,01: Pravrajyāvastu'
+  language: sa
+bases:
+  A44B:
+    base_file: A44B.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
